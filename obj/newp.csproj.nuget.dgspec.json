@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michellediazvi/NET/newp/newp.csproj": {}
+    "/Users/michellediazvi/NET/pythonnet_example/NIRWisePlus_pythonnet/newp.csproj": {}
   },
   "projects": {
-    "/Users/michellediazvi/NET/newp/newp.csproj": {
+    "/Users/michellediazvi/NET/pythonnet_example/NIRWisePlus_pythonnet/newp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michellediazvi/NET/newp/newp.csproj",
+        "projectUniqueName": "/Users/michellediazvi/NET/pythonnet_example/NIRWisePlus_pythonnet/newp.csproj",
         "projectName": "newp",
-        "projectPath": "/Users/michellediazvi/NET/newp/newp.csproj",
+        "projectPath": "/Users/michellediazvi/NET/pythonnet_example/NIRWisePlus_pythonnet/newp.csproj",
         "packagesPath": "/Users/michellediazvi/.nuget/packages/",
-        "outputPath": "/Users/michellediazvi/NET/newp/obj/",
+        "outputPath": "/Users/michellediazvi/NET/pythonnet_example/NIRWisePlus_pythonnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michellediazvi/.nuget/NuGet/NuGet.Config"

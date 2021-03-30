@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C0/qXSWhADE8aeidp2s7y9es1nimTPznDaakyL20q4RjRn80pRwaa/fFc1lDZyKpzd9mbpNH+slRvVqwrb6MmA==",
+  "dgSpecHash": "UiXo0xEL92QSFXWhwiNBKHVSJNzI8ycZTmQaXE637AJ6GK7+NsPo6Cc+FTQ0EO5Xn5uN2HZ/cGFILbpobYdgpQ==",
   "success": true,
-  "projectFilePath": "/Users/michellediazvi/NET/newp/newp.csproj",
+  "projectFilePath": "/Users/michellediazvi/NET/pythonnet_example/NIRWisePlus_pythonnet/newp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
